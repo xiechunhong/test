@@ -1,3 +1,2 @@
-I wanna learn git!
-Add a new line, it's only a simple line.
-Add a second line.
+This will be my official git repository from now on.
+I haven't decided any topics yet. Thinking about building a website, or share some test tools, or anything that I think valuable to others.
